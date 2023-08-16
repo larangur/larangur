@@ -6,9 +6,9 @@ Soy una persona apasionada por la programación y disfruto emprender proyectos d
 
 Habilidades: Full-Stack Developer | JavaScript | React | Express | Node JS | Redux | HTML | CSS | PL/SQL | No-SQL | No Code | Cytizen Developer
 
-- 🔭 Estoy trabajando en en mi perfil 
+- 🔭 Estoy trabajando Vocación
 - 📫 Cómo contactarme: larangur@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/larangurcol//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](larangurti.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/larangurcol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](larangurti.com)  
 
