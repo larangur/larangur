@@ -1,6 +1,6 @@
 ### Hola 👋, soy Alejandro Aranguren
 #### Soy FULL STACK DEVELOPER
-![Soy FULL STACK DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy FULL STACK DEVELOPER](https://github.com/larangur/larangur/blob/main/bannerGit.jpeg)
 
 Soy una persona apasionada por la programación y disfruto emprender proyectos desde su inicio. Me adapto fácilmente a los entornos laborales dinámicos y puedo manejar plazos ajustados y situaciones de presión de manera efectiva. Además, me enfoco en el aprendizaje continuo y el desarrollo profesional para estar al tanto de las últimas tendencias y tecnologías.
 
