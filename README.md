@@ -6,7 +6,7 @@ Soy una persona apasionada por la programación y disfruto emprender proyectos d
 
 Habilidades: Full-Stack Developer | JavaScript | React | Express | Node JS | Redux | HTML | CSS | PL/SQL | No-SQL | No Code | Cytizen Developer
 
-- 🔭 Estoy trabajando Vocación
+- 🔭 Estoy trabajando en mi Vocación
 - 📫 Cómo contactarme: larangur@gmail.com 
 
 
